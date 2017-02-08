@@ -15,6 +15,7 @@ An app to consolidate drug information from trusted websites, making it accessib
     "GenericName" : "escitalopram",
     "BrandName" : "Cipralex",
     "RecommendedDosage" : "10 mg",
+    "OverTheCounter" : "true",
     "Interactions" : [
         "alcohol", "alfuzosin", "amiodarone",
         "anagrelide", "asenapine", "azithromycin",
@@ -28,6 +29,6 @@ An app to consolidate drug information from trusted websites, making it accessib
     "Usage" : "Paragraph on usage",
     "ActiveIngredients" : ["ingredient1", "ingredient2"],
     "Warnings" : "Warning information",
-    "Source" : "www.medical-website.com"
+    "Source" : "www.medical-website.com",
 }
 ```
