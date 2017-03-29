@@ -13,7 +13,9 @@ An app to consolidate drug information from trusted websites, making it accessib
 ```json
 {
     "GenericName" : "escitalopram",
-    "BrandName" : "Cipralex",
+    "BrandNames" : [
+      "Cipralex", "Name2", "Name3"
+    ],
     "RecommendedDosage" : "10 mg",
     "OverTheCounter" : "true",
     "Interactions" : [
